@@ -1,4 +1,4 @@
-public class Palindmore {
+public class Palindrome {
     public static void main(String[] args) {
         isPalindrome( "java Palindrome madam racecar apple kayak song noon");
     }
